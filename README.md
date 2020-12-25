@@ -12,5 +12,5 @@
 
 #### 動作確認 
 
-### 開発環境
+#### 開発環境
 Ruby / Ruby on Rails / MySQL / GitHub / Heroku / Visual Studio Code / Trello
