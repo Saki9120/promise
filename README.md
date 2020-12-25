@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### アプリケーション情報
 
-Things you may want to cover:
+#### アプリケーション名
+自分との約束
 
-* Ruby version
+#### 概要
+自分のことが認められない、自己承認が苦手な人が自己承認を習慣化するためのアプリです。
 
-* System dependencies
+#### テーブル設計
 
-* Configuration
+#### 動作確認 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 開発環境
+Ruby / Ruby on Rails / MySQL / GitHub / Heroku / Visual Studio Code / Trello
